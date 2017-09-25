@@ -1,10 +1,11 @@
 # DogBreeds
+![Preview](Public/banner.png)
 
 A perfect starter kit for your next cross-platform React Native app. **FREE** and open-source! Check out live demo on [Google Play](https://play.google.com/store/apps/details?id=com.luulam.dogbreed).
 
 ![Preview](http://i.imgur.com/uJ7c5Pi.png)
 
-<a href="https://play.google.com/store/apps/details?id=com.luulam.dogbreeds" alt="Google play"><img src="http://i.imgur.com/pxFfB0S.png" width="200"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.luulam.dogbreed" alt="Google play"><img src="http://i.imgur.com/pxFfB0S.png" width="200"/></a>
 
 
 ## Example
